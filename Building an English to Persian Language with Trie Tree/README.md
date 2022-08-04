@@ -1,4 +1,4 @@
-# Building-an-English-to-Persian-Language-with-Trie-Tree
+# Building-an-English-to-Persian-Language-Dictionary-with-Trie-Tree
 
 My 7th project was in the "Data Structures and Algorithms" course when I was in the 3rd semester of my bachelor's at IAUSTB. This program stores a trie tree as a dictionary of words. It gives an English word as input and results in Persian by traversing the trie tree.
 
