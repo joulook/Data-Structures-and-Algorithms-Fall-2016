@@ -1,0 +1,8 @@
+c:\users\kc\documents\visual studio 2012\Projects\TrieDictionary\TrieDictionary\bin\Debug\TrieDictionary.exe.config
+c:\users\kc\documents\visual studio 2012\Projects\TrieDictionary\TrieDictionary\obj\Debug\TrieDictionary.Form1.resources
+c:\users\kc\documents\visual studio 2012\Projects\TrieDictionary\TrieDictionary\obj\Debug\TrieDictionary.Properties.Resources.resources
+c:\users\kc\documents\visual studio 2012\Projects\TrieDictionary\TrieDictionary\obj\Debug\TrieDictionary.csproj.GenerateResource.Cache
+c:\users\kc\documents\visual studio 2012\Projects\TrieDictionary\TrieDictionary\bin\Debug\TrieDictionary.exe
+c:\users\kc\documents\visual studio 2012\Projects\TrieDictionary\TrieDictionary\bin\Debug\TrieDictionary.pdb
+c:\users\kc\documents\visual studio 2012\Projects\TrieDictionary\TrieDictionary\obj\Debug\TrieDictionary.exe
+c:\users\kc\documents\visual studio 2012\Projects\TrieDictionary\TrieDictionary\obj\Debug\TrieDictionary.pdb
